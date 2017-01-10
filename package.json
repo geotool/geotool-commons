@@ -1,0 +1,15 @@
+{
+  "name": "geotool-commons",
+  "version": "0.1.0",
+  "description": "Geotool - common utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "acegik",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.6.0",
+    "loadsync": "^0.1.2"
+  }
+}
